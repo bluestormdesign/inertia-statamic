@@ -9,7 +9,7 @@
 You can install the package through Composer.
 
 ```bash
-composer require hotmeteor/inertia-statamic
+composer require bluestormdesign/inertia-statamic
 ```
 
 ## Usage
